@@ -1,0 +1,9 @@
+# Robots.txt for bbq.huoban.men (static HTML site)
+User-agent: *
+Allow: /
+
+# This is static site, no WordPress, remove wp rules
+# Block any unnecessary paths if needed later
+
+# Sitemap declaration
+Sitemap: https://bbq.huoban.men/sitemap.xml

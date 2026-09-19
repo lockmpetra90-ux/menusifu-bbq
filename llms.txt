@@ -1,0 +1,17 @@
+# MenuSifu BBQ Restaurant
+> MenuSifu BBQ is a North American barbecue restaurant website built with Bootstrap.
+> This site introduces restaurant information, menu, gallery and contact details for customers.
+
+## Website Overview
+This is a static restaurant website developed with Bootstrap5.
+Pages include homepage, about us, photo gallery and contact page.
+
+## Important Pages
+- [Homepage](https://bbq.huoban.men/)
+- [About Us](https://bbq.huoban.men/about.html)
+- [Gallery](https://bbq.huoban.men/gallery.html)
+- [Contact](https://bbq.huoban.men/contact.html)
+
+## Site Technical Info
+- Static HTML + Bootstrap5
+- Sitemap: https://bbq.huoban.men/sitemap.xml
