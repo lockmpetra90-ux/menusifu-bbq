@@ -657,7 +657,7 @@ body {
 
 /* about page 页 */
 .page-banner {
-    height: 35vh;
+    height: 50vh;
     background-color: #000;
     background-image: url(../images/page-banner.webp);
     background-size: cover;
